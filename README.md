@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jabari Prewitt, I am US Navy veteran and hold a degree in Supply Chain Management from Louisiana Tech University. I am currently in school (again, having a grand time) for Computer Science at Saint Edward's University. I am currently working on side projects and exercises to improve my programming skills and writing. I will be posting them here as I develop them. Majority of them will be fairly simple and straightforward as I am learning and building my skillset. Feel free to reach out with any tips and feedback. I am all about self improvement and genuinely enjoy the challenge of learning this discipline and all it entails. 
+My name is Jabari Prewitt.
 
 <!--
 **lowkeybari/lowkeybari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- I am US Navy veteran and hold a degree in Supply Chain Management from Louisiana Tech University. I am currently in school (again, having a grand time) for Computer Science at Saint Edward's University. I am currently working on side projects and exercises to improve my programming skills and writing. I will be posting them here as I develop them. Majority of them will be fairly simple and straightforward as I am learning and building my skillset. Feel free to reach out with any tips and feedback. I am all about self improvement and genuinely enjoy the challenge of learning this discipline and all it entails. 
 -->
