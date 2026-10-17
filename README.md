@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey, I'm Jabari 👋🏾</h1>
+<h1>Hello, I'm Jabari 👋🏾</h1>
 <p><b>CS Student · AI/ML & Computer Vision · U.S. Navy Veteran</b></p>
 
 
@@ -13,10 +13,10 @@
 
 ### 👨🏾‍💻 About Me
 
-Hello, my name is Jabari Prewitt. I'm a U.S. Navy veteran with a degree in Supply Chain Management from Louisiana Tech University. I'm back in school (again, having a grand time) for Computer Science at St. Edward's University.
+Hello, my name is Jabari Prewitt. I'm a U.S. Navy veteran and I also hold a degree in Supply Chain Management from Louisiana Tech University. I'm back in school (again, having a grand time) full-time for Computer Science at St. Edward's University.
 
-- 🎓 Focused on **AI/ML** with an emphasis on **computer vision**
-- 🔬 Part of a university research group working on a **NASA air quality study** (Python data analysis)
+- 🎓 Degree focused in **AI/ML** with an emphasis on **computer vision**
+- 🔬 Part of a university research group working on a **NASA air quality study**
 - 🌱 Currently learning: **SQL & database design**, **statistics**, **calculus**, **component-based Java**, and **linear algebra**
 - 🔭 Working on side projects and exercises to sharpen my programming and build my foundational skills and thinking. I'll post them here as I build them.
 - 💬 Tips and feedback are always welcome. Feel free to reach out!
