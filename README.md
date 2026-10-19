@@ -11,29 +11,6 @@
 
 ---
 
-### About Me
-
-Hello, my name is Jabari Prewitt. I'm a U.S. Navy veteran and I also hold a degree in Supply Chain Management from Louisiana Tech University. I'm back in school (again, having a grand time) full-time for Computer Science at St. Edward's University.
-
-- 🎓 Degree focused in **AI/ML** with an emphasis on **computer vision**
-- 🔬 Part of a university research group working on a **NASA air quality study**
-- 🌱 Currently learning: **SQL & database design**, **statistics**, **calculus**, **component-based Java**, and **linear algebra**
-- 🔭 Working on side projects and exercises to sharpen my programming and build my foundational skills and thinking. I'll post them here as I build them.
-- 💬 Tips and feedback are always welcome. Feel free to reach out!
-
----
-
-### Tech/Languages I Use
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,apple&theme=dark" />
-</p>
-
-**Exploring next:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,cpp&theme=dark" />
-</p>
 
 ---
 
