@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hello, I'm Jabari 👋🏾</h1>
+<h1>Hello, I'm Jabari </h1>
 <p><b>CS Student · AI/ML & Computer Vision · U.S. Navy Veteran</b></p>
 
 
@@ -11,7 +11,7 @@
 
 ---
 
-### 👨🏾‍💻 About Me
+### About Me
 
 Hello, my name is Jabari Prewitt. I'm a U.S. Navy veteran and I also hold a degree in Supply Chain Management from Louisiana Tech University. I'm back in school (again, having a grand time) full-time for Computer Science at St. Edward's University.
 
@@ -23,7 +23,7 @@ Hello, my name is Jabari Prewitt. I'm a U.S. Navy veteran and I also hold a degr
 
 ---
 
-### 🛠️ Tech/Languages I Use
+### Tech/Languages I Use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,apple&theme=dark" />
